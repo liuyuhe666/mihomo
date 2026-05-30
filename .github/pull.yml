@@ -4,7 +4,3 @@ rules:
     upstream: MetaCubeX:Meta
     mergeMethod: hardreset
     mergeUnstable: true
-  - base: main
-    upstream: MetaCubeX:main
-    mergeMethod: hardreset
-    mergeUnstable: true
